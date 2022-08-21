@@ -1,5 +1,6 @@
-
-<img src="static.png" align="center">
+<div align="center">
+    <img src="static.png">
+</div>
 
 # Kau Systems
 
